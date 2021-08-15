@@ -7,9 +7,9 @@ multiplicacao = a * b
 divisao = a / b 
 resto = a % b
 resultado = ('Soma: {soma}. \nSubtracao: {subtracao}. '
-      '\nMultiplicacao: {multiplicacao}'
-      '\nDivisão: {divisao}'
-      '\nResto: {resto}'.format(soma=soma,
+      '\nMultiplicacao: {multiplicacao}.'
+      '\nDivisão: {divisao}.'
+      '\nResto: {resto}.'.format(soma=soma,
                                 subtracao=subtracao,
                                 resto=resto,
                                 multiplicacao=multiplicacao,
